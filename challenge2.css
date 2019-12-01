@@ -112,5 +112,5 @@ svg.bx-svg-icon.bx-svg-icon-bag
         -ms-transform: scale(1);
             transform: scale(1);
 
-    opacity: 1;
+    opacity: 1 !important;
 }
