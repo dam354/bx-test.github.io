@@ -16,7 +16,7 @@
 .bx-product-container{
   width: 50%;
   height: auto;
-  margin: 0 auto;
+  margin: 10px auto;
 
 
 }
@@ -36,7 +36,7 @@ font-size: 2rem;
 }
 .bx-button-container{
     width: 275px;
-    margin:25px auto
+    margin:20px auto 25px;
 }
 
 button#bx-add-to-cart.bx-add-to-cart.bx-add-to-cart-button {
