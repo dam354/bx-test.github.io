@@ -13,6 +13,25 @@
 .bx-group-logo .bx-row{
     padding-top: 25px !important;
 }
+.bx-product-container{
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+
+
+}
+
+.bx-row-headline-1 {
+  font-family: ars_maquette_problack,sans-serif;
+  font-size: 2rem;
+    letter-spacing: normal;
+  margin: 0;
+  text-transform: none;
+}
+
+.bx-row-headline-1-product {
+font-weight: bold;
+}
 .bx-button-container{
     width: 275px;
     margin:0 auto
