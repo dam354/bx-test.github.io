@@ -56,7 +56,9 @@ button#bx-add-to-cart.bx-add-to-cart.bx-add-to-cart-button {
     text-transform: none;
     width: 100%;
   }
-  
+  .bx-button-label{
+    padding-right:10px
+  }
   button.bx-add-to-cart-button:hover {
     background-color: #d00;
     outline: 2px dotted #000;
